@@ -1,0 +1,20 @@
+
+
+'-'.join(frase) -- inclui oque estiver entre'' para juntar as palavras 
+frase.split() -- Faz a divisão das palavras em uma nova lista 
+frase.title() -- primeira letra de cada palavra em maiuscula 
+frase.captalize() -- Soment a primeira letra em amiuscula 
+frase.lower()  -- troca tudo para minusculo
+frase.upper() -- troca tudo para maiusculo 
+frase.replase('python','android')
+'curso'in frase -- localiza a palavra 
+frase.find('deo') -- caracter do início da frase 
+frase.count('o') -- Contar quantas veses aparece a letras "O"
+frase.count('o,0,14) -- Contar quantas veses aparece a letras "O" com fatiamento 
+len(frase) -- Comprimento da frase em caracteres 
+frase.strip()  -- Remove os espaços no inicio e final de cada frase 
+frase.rstrip() -- Remove os espaços do lado direito 
+frase.lstrip() --remove os espaços da esquerda 
+ceil arredonda pra cima 
+floor arredonda pra baixo 
+funcao choice -- sorteio aleatorio de 1 valor 

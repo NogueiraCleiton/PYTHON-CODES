@@ -1,0 +1,5 @@
+n1= float(input('Digite a 1ª nota: '))
+n2 = float(input('Digite a 2ª nota: '))
+s = float(n1 + n2)
+m = float(s/2)
+print('a soma das notas é {} e a media entre elas é {}'.format(s,m))
